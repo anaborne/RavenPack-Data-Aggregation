@@ -1,6 +1,7 @@
 # RavenPack-Data-Aggregation
 The dataset contains 11 columns: 
-- entity_name	exportergroups
+- entity_name
+- exportergroups
 - year
 - N_event_sentiment_negative
     - this contains the number of negative event sentiment scores for each company
