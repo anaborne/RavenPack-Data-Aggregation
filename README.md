@@ -17,3 +17,7 @@ The dataset contains 11 columns:
 
 # Timestamp of RavenPack Data
 <img width="2658" height="340" alt="Image" src="https://github.com/user-attachments/assets/b227e6a4-3490-4441-9e67-eda73b1ddb51" />
+
+#Notes:
+- Data regarding Terra Santa Agro has been merged with data from its previous name- Brasil Ecodiesel
+- Data on Marfrig Alimentos SA and Marfrig Global Foods has been merged under the name 'MARFRIG' in the exportergroup column as the two names represent the same company whose name changed in 2014
